@@ -4,14 +4,14 @@
 
 ## Team :
 ```
-Muammar Qhadafi
-Raafi Dwi Susanto
-Saepul Uyun
+Muammar Qhadafi (2101191019)
+Raafi Dwi Susanto (2101191026)
+Saepul Uyun (2101191034)
 ```
 
 ## Dataset Source :
 ```
-Dataset yang digunakan berasal dari UCI Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/Student+Performance.
+Dataset yang digunakan berasal dari UCI Machine Learning Repository [Link](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
 Dataset akan dilampirkan beserta full source code dari project ini.
 ```
 
