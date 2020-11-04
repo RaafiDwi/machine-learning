@@ -16,6 +16,7 @@ Dataset yang digunakan berasal dari UCI Machine Learning Repository [Link](https
 [Go to the Support Web Site](https://support.west-wind.com)
 Dataset akan dilampirkan beserta full source code dari project ini.
 ```
+[Go to the Support Web Site](https://support.west-wind.com)
 
 ## Pre-Condition :
 ```
