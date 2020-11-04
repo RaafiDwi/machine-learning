@@ -7,7 +7,7 @@ Saepul Uyun
 ```
 
 ## Dataset Source :
-```Dataset yang digunakan berasal dari UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Student+Performance].
+```Dataset yang digunakan berasal dari UCI Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/Student+Performance.
 Dataset akan dilampirkan beserta full source code dari project ini.
 ```
 
