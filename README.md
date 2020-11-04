@@ -1,16 +1,18 @@
 # Machine Learning with Python (Student Final Grade Prediction for Midterm Project)
 
-Team :
-Muammar Qhadafi
+##Team :
+```Muammar Qhadafi
 Raafi Dwi Susanto
 Saepul Uyun
+```
 
-Dataset Source :
-Dataset yang digunakan berasal dari UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Student+Performance].
+##Dataset Source :
+```Dataset yang digunakan berasal dari UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Student+Performance].
 Dataset akan dilampirkan beserta full source code dari project ini.
+```
 
-Pre-Condition :
-- 	Atribut pada dataset ini (student-mat.csv) ada 33 macam yaitu :
+##Pre-Condition :
+```- 	Atribut pada dataset ini (student-mat.csv) ada 33 macam yaitu :
 	1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 	2 sex - student's sex (binary: 'F' - female or 'M' - male)
 	3 age - student's age (numeric: from 15 to 22)
@@ -58,3 +60,4 @@ Pre-Condition :
 	8 studytime
 	9 G1
 	10 G2
+```
