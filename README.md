@@ -1,17 +1,17 @@
 # Machine Learning with Python (Student Final Grade Prediction for Midterm Project)
 
-##Team :
+## Team :
 ```Muammar Qhadafi
 Raafi Dwi Susanto
 Saepul Uyun
 ```
 
-##Dataset Source :
+## Dataset Source :
 ```Dataset yang digunakan berasal dari UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Student+Performance].
 Dataset akan dilampirkan beserta full source code dari project ini.
 ```
 
-##Pre-Condition :
+## Pre-Condition :
 ```- 	Atribut pada dataset ini (student-mat.csv) ada 33 macam yaitu :
 	1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 	2 sex - student's sex (binary: 'F' - female or 'M' - male)
