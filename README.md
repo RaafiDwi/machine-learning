@@ -1,4 +1,6 @@
-# Machine Learning with Python (Student Final Grade Prediction for Midterm Project)
+# Machine Learning with Python 
+## (Student Final Grade Prediction for Midterm Project)
+*Project ini dibuat untuk memenuhi tugas UTS mata kuliah PEMBELAJARAN SECARA STATISTIK DAN OPTIMISASI S2TE-31-01 [SZL]*
 
 ## Team :
 ```
