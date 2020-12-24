@@ -23,12 +23,20 @@ Saepul Uyun (2101191034)
 
 Berikut hasil Analisis setelah dilakukan perbandingan dari ke-3 metode tersebut
 ```
-LDA mencoba mengurangi dimensionalitas dengan mempertimbangkan informasi yang membedakan kelas keluaran. LDA mencoba untuk menemukan batasan keputusan di sekitar setiap cluster kelas.
-
-Ini memproyeksikan poin data ke dimensi baru sedemikian rupa sehingga cluster sebisa mungkin terpisah satu sama lain dan elemen individu dalam kelas sedekat mungkin dengan centroid.
-
+LDA mencoba mengurangi dimensionalitas dengan mempertimbangkan informasi yang membedakan kelas keluaran. 
+LDA mencoba untuk menemukan batasan keputusan di sekitar setiap cluster kelas.
+Ini memproyeksikan poin data ke dimensi baru sedemikian rupa sehingga cluster sebisa mungkin terpisah 
+satu sama lain dan elemen individu dalam kelas sedekat mungkin dengan centroid.
 Dengan kata lain, keterpisahan antar kelas meningkat di LDA. Pemisahan intra-kelas berkurang.
 Dimensi baru adalah diskriminan linier dari kumpulan fitur.
+
+Dalam kasus data yang terdistribusi secara seragam, LDA hampir selalu berkinerja lebih baik daripada PCA.
+Namun jika datanya sangat miring (terdistribusi tidak teratur) maka disarankan untuk menggunakan PCA 
+karena LDA dapat bias terhadap kelas mayoritas.
+
+Akhirnya, sangat bermanfaat bahwa PCA dapat diterapkan ke data berlabel maupun tidak berlabel karena tidak
+bergantung pada label keluaran. Di sisi lain, LDA membutuhkan kelas keluaran untuk menemukan diskriminan 
+linier dan karenanya membutuhkan data berlabel.
 ```
 *Semua Source Code dan Dataset berada dalam repository ini, silahkan download untuk lebih detailnya, aplikasi yang digunakan adalah google colabs*
 
