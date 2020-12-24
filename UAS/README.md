@@ -23,7 +23,12 @@ Saepul Uyun (2101191034)
 
 Berikut hasil Analisis setelah dilakukan perbandingan dari ke-3 metode tersebut
 ```
-Ini Alaisisnya
+LDA mencoba mengurangi dimensionalitas dengan mempertimbangkan informasi yang membedakan kelas keluaran. LDA mencoba untuk menemukan batasan keputusan di sekitar setiap cluster kelas.
+
+Ini memproyeksikan poin data ke dimensi baru sedemikian rupa sehingga cluster sebisa mungkin terpisah satu sama lain dan elemen individu dalam kelas sedekat mungkin dengan centroid.
+
+Dengan kata lain, keterpisahan antar kelas meningkat di LDA. Pemisahan intra-kelas berkurang.
+Dimensi baru adalah diskriminan linier dari kumpulan fitur.
 ```
 *Semua Source Code dan Dataset berada dalam repository ini, silahkan download untuk lebih detailnya, aplikasi yang digunakan adalah google colabs*
 
